@@ -8,7 +8,7 @@
 Welcome to my Github page! I am Kevin and I am currently learning Blockchain.
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
+- Finish my bachelor's degree in cybersecurity
 - Taking online courses about End Back
 
 #### :muscle: Things I am challenging myself with:
@@ -35,6 +35,5 @@ Welcome to my Github page! I am Kevin and I am currently learning Blockchain.
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/solana/solana-ar21.svg"></code>
 </p>
 
