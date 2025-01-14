@@ -3,6 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xwwkk)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/Kev1nWeb3)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=X&logoColor=white)](https://x.com/Kev1nWeb3)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:x3137132963@gmail.com)
 
 Welcome to my Github page! I am Kevin and I am currently learning Blockchain.
