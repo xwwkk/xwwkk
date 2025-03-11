@@ -18,9 +18,11 @@ Welcome to my Github page! I am Kevin and I am currently learning Blockchain.
 - Improving my blockchain development skills
 
 #### :computer: Programming languages and tools: 
-![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
-![Solidity](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)
-![Ethereum](https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg)
-![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg)
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" width="100">
+    <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg" width="100">
+</p>
