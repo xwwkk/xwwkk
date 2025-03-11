@@ -18,14 +18,9 @@ Welcome to my Github page! I am Kevin and I am currently learning Blockchain.
 - Improving my blockchain development skills
 
 #### :computer: Programming languages and tools: 
-<p>
-    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xwwkk&show_icons=true&hide_border=true" />
-
-    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-    <br />
-    <img width="10%" src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg">
-    <img width="10%" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg">
-</p>
+![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
+![Solidity](https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg)
+![Ethereum](https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg)
+![Bitcoin](https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg)
