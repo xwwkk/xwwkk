@@ -22,7 +22,6 @@ Welcome to my Github page! I am Kevin and I am currently learning Blockchain.
     <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100">
     <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="100">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="100">
     <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" width="100">
     <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg" width="100">
 </p>
