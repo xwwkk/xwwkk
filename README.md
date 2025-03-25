@@ -5,17 +5,19 @@
 [![X](https://img.shields.io/badge/-X-black?style=flat&logo=X&logoColor=white)](https://x.com/Kev1nWeb3)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:x3137132963@gmail.com)
 
-Welcome to my Github page! I am Kevin and I am currently learning Blockchain.
+Hi, I’m Kevin! I’m passionate about blockchain development and currently diving deep into cybersecurity and backend development.
 
-#### 🌱 Things I am currently working on: 
-- Finish my bachelor's degree in cybersecurity
-- Taking online courses about End Back
+🚀 What I’m Working On:
+	•	🎓 Completing my bachelor’s degree in cybersecurity
+	•	📚 Learning backend development (especially in Web3)
+	•	🔗 Enhancing my blockchain development skills
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my blockchain development skills
+🎯 My Challenges:
+	•	⏰ Waking up early to maximize productivity
+	•	💻 Coding at least 4 hours a day
+	•	🏋️ Exercising 3 days a week
+
+💡 Always exploring new ideas & technologies! Let’s connect and build something amazing together.
 
 #### :computer: Programming languages and tools: 
 <p align="left">
