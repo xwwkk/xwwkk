@@ -1,9 +1,15 @@
-### Hi there 👋 
-### This is Kevin！
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/xwwkk)
-[![X](https://img.shields.io/badge/-X-black?style=flat&logo=X&logoColor=white)](https://x.com/Kev1nWeb3)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:x3137132963@gmail.com)
+<p align="center">
+  <a href="https://github.com/xwwkk">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  </a>
+  <a href="https://x.com/Kev1nWeb3">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:x3137132963@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 Hi, I’m Kevin! I’m passionate about blockchain development and currently diving deep into cybersecurity and backend development.
 
@@ -20,12 +26,17 @@ Hi, I’m Kevin! I’m passionate about blockchain development and currently div
 💡 Always exploring new ideas & technologies! Let’s connect and build something amazing together.
 
 #### :computer: Programming languages and tools: 
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100">
-    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="100">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="100">
-    <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" width="100">
-    <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg" width="100">
+<!-- Programming Languages -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD433?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+</p>
+
+<!-- Web3/DeFi Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Foundry-111111?style=for-the-badge&logo=foundations&logoColor=white" alt="Foundry" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-000?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
 </p>
 
 <!-- 
