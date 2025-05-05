@@ -27,3 +27,17 @@ Hi, I’m Kevin! I’m passionate about blockchain development and currently div
     <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg" width="100">
     <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-ar21.svg" width="100">
 </p>
+
+<!-- 
+   Closing Banner 
+-->
+<p align="center">
+<pre>
+                       _   __ _____ ___________  ______ _   _ _____ _    ______ _____ _   _ _____ 
+                      | | / /|  ___|  ___| ___ \ | ___ \ | | |_   _| |   |  _  \_   _| \ | |  __ \
+                      | |/ / | |__ | |__ | |_/ / | |_/ / | | | | | | |   | | | | | | |  \| | |  \/
+                      |    \ |  __||  __||  __/  | ___ \ | | | | | | |   | | | | | | | . ` | | __ 
+                      | |\  \| |___| |___| |     | |_/ / |_| |_| |_| |___| |/ / _| |_| |\  | |_\ \
+                      \_| \_/\____/\____/\_|     \____/ \___/ \___/\_____/___/  \___/\_| \_/\____/
+</pre>
+</p>
