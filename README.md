@@ -11,17 +11,7 @@
   </a>
 </p>
 
-Hi, I’m Kevin! I’m passionate about blockchain development and currently diving deep into cybersecurity and backend development.
-
-🚀 What I’m Working On:
-- 🎓 Completing my bachelor’s degree in cybersecurity
-- 📚 Learning backend development (especially in Web3)
-- 🔗 Enhancing my blockchain development skills
-
-🎯 My Challenges:
-- ⏰ Waking up early to maximize productivity
-- 💻 Coding at least 4 hours a day
-- 🏋️ Exercising 3 days a week
+Hi, I’m Kevin! I’m passionate about blockchain development and currently diving deep into cybersecurity.
 
 💡 Always exploring new ideas & technologies! Let’s connect and build something amazing together.
 
