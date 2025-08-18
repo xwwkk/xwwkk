@@ -22,7 +22,7 @@ Hi, I’m Kevin! I’m passionate about blockchain development and currently div
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Move-0048BA?style=for-the-badge&logo=aptos&logoColor=white" alt="Move" />
+  <img src="https://img.shields.io/badge/Move-5F36FF?style=for-the-badge&logo=sui&logoColor=white" alt="Move" />
 </p>
 
 <!-- Web3/DeFi Tools -->
