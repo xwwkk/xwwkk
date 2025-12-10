@@ -17,7 +17,7 @@ Hi, I’m Kevin! I’m passionate about blockchain development and currently div
 
 <p align="center">
 Those who can, do.<br>
-Those who can't, fud
+Those who can't, fud.
 </p>
 
 #### :computer: Programming languages and tools: 
