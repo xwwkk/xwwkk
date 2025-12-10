@@ -15,6 +15,9 @@ Hi, I’m Kevin! I’m passionate about blockchain development and currently div
 
 💡 Always exploring new ideas & technologies! Let’s connect and build something amazing together.
 
+Those who can, do
+Those who can't, fud 
+
 #### :computer: Programming languages and tools: 
 <!-- Programming Languages -->
 <p align="center">
